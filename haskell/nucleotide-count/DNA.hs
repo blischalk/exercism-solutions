@@ -1,6 +1,6 @@
 module DNA (count, nucleotideCounts) where
 
-import qualified Data.Map as Mp
+import qualified Data.Map.Strict as Mp
 import qualified Data.Set as Set
 
 
